@@ -1,2 +1,2 @@
 # objLoader
-Wavefront obj loader for opengl with simple shading.
+Wavefront obj loader for OpenGL with a simple shading.
